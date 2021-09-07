@@ -1,12 +1,38 @@
 # JayWithABeanie - Minecraft Resources
 
-These are the official resources used by [JayWithABeanie](https://www.twitch.tv/jaywithabeanie). For additional information, please contact `jayy#6889` on [Discord](https://discord.gg/8CN2zmdTFG).
+These are the official resources used by [JayWithABeanie](https://www.twitch.tv/jaywithabeanie) for [Minecraft Java Edition](https://www.minecraft.net/en-us) 1.17.1. For additional information, please contact `jayy#6889` on [Discord](https://discord.gg/8CN2zmdTFG).
+
+
+
+## Table of Contents
+- [Resource Packs](#resource-packs)
+- [Mods](#mods)
+  - [API's & Libraries](#apis--libraries-)
+  - [Info & Map Mods](#-info--map-mods-)
+  - [Visual Mods](#-visual-mods-)
+  - [Technical Mods](#-technical-mods-)
+  - [Performance Mods](#-performance-mods)
+
+
+
+## Resource Packs
+Jay uses a combination of resource packs, for a more personalized experience.<br>
+Some resource packs are adapted slightly to optimize the customization.
+
+Name | Used For | Adaptation
+---- | -------- | ----------
+[Better Beds](https://www.curseforge.com/minecraft/texture-packs/better-vanilla-animals) | Beds | No
+[Better Vanilla Animals](https://www.curseforge.com/minecraft/texture-packs/better-vanilla-animals) | Mobs | No
+[Better Vanilla Building](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) | Mobs | Yes
+[Embellished Stone](https://www.curseforge.com/minecraft/texture-packs/embellished-stone-advancement-plaques) | Advancements | No
+[New Default](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus) | Blocks, Items, Mobs & CITs | Yes
+[Stoneborn](https://www.curseforge.com/minecraft/texture-packs/stoneborn-dwarven-fantasy-inspired-ui-overhaul) | UIs | No
+[Zinkenite Mobs](https://www.curseforge.com/minecraft/texture-packs/zinkenitemobs) | Mobs | Yes
 
 
 
 ## Mods
-Jay uses [Fabric Loader](https://fabricmc.net/), which allows for mods to be ran through the [Minecraft launcher](https://www.minecraft.net/en-us).<br>
-The version played is [Java 1.17.1](https://minecraft.fandom.com/wiki/Java_Edition).
+Jay uses [Fabric Loader](https://fabricmc.net/), which allows for mods to be ran through the [Minecraft launcher](https://www.minecraft.net/en-us).
 
 
 ### API's & Libraries [🡫](#-info--map-mods-)
