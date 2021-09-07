@@ -21,7 +21,7 @@ Some resource packs are adapted slightly to optimize the customization.
 
 Name | Used For | Adaptation
 ---- | -------- | ----------
-[Better Beds](https://www.curseforge.com/minecraft/texture-packs/better-vanilla-animals) | Beds | No
+[Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Beds | No
 [Better Vanilla Animals](https://www.curseforge.com/minecraft/texture-packs/better-vanilla-animals) | Mobs | No
 [Better Vanilla Building](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) | Mobs | Yes
 [Embellished Stone](https://www.curseforge.com/minecraft/texture-packs/embellished-stone-advancement-plaques) | Advancements | No
