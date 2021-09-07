@@ -4,7 +4,7 @@ These are the official resources used by [JayWithABeanie](https://www.twitch.tv/
 
 
 
-## Fabric Mods
+## Mods
 Jay uses [Fabric Loader](https://fabricmc.net/), which allows for mods to be ran through the [Minecraft launcher](https://www.minecraft.net/en-us).<br>
 The version played is [Java 1.17.1](https://minecraft.fandom.com/wiki/Java_Edition).
 
