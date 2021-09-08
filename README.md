@@ -6,6 +6,7 @@ These are the official resources used by [JayWithABeanie](https://www.twitch.tv/
 
 ## Table of Contents
 - [Resource Packs](#resource-packs)
+- [Shaders](#shaders)
 - [Mods](#mods)
   - [API's & Libraries](#apis--libraries-)
   - [Info & Map Mods](#-info--map-mods-)
@@ -31,12 +32,22 @@ Name | Used For | Adaptation
 
 
 
+## Shaders
+Jay uses shaders to improve the visual gameplay.
+
+Name | Description
+---- | -----------
+[Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders) | Shaders that improve performance, gameplay, visuals and compatibility
+
+
+
 ## Mods
 Jay uses [Fabric Loader](https://fabricmc.net/), which allows for mods to be ran through the [Minecraft launcher](https://www.minecraft.net/en-us).
 
 
 ### API's & Libraries [🡫](#-info--map-mods-)
-Only download dependencies for the mods you're planning on using. The dependencies are stated with each mod, so you'll know which dependencies you need for your own set of mods.
+Only download dependencies for the mods you're planning on using.<br>
+The dependencies are stated with each mod, so you'll know which dependencies you need for your own set of mods.
 
 Name | Description
 ---- | -----------
