@@ -86,6 +86,7 @@ Name | Description | Dependencies
 [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) | Improves the appearance of player skins into a 3D version | None
 [Advancement Plaques](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques) | Improves the appearance of advancement pop-up notifications | [Cloth Config API](#apis--libraries-), [Fabric API](#apis--libraries-)
 [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | Improves the color blending of different biomes | [Fabric API](#apis--libraries-)
+[Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | Improves the hunger, health and experience bar while riding a horse | None
 [Clean View](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | Improves the first-person view by removing particles of the player | [Fabric API](#apis--libraries-)
 [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) | Improves leaves by adding falling leaf particle effect | [Cloth Config API](#apis--libraries-), [Fabric API](#apis--libraries-)
 [FreeLook](https://www.curseforge.com/minecraft/mc-mods/freelook-fabric) | Improves third-person view by adding a perspective view | [Fabric API](#apis--libraries-)
