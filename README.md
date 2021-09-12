@@ -88,11 +88,14 @@ Name | Description | Dependencies
 [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | Improves the color blending of different biomes | [Fabric API](#apis--libraries-)
 [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | Improves the hunger, health and experience bar while riding a horse | None
 [Clean View](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | Improves the first-person view by removing particles of the player | [Fabric API](#apis--libraries-)
+[Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters) | Improves sounds by adding echo, reverb and more | [Fabric API](#apis--libraries-)
 [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) | Improves leaves by adding falling leaf particle effect | [Cloth Config API](#apis--libraries-), [Fabric API](#apis--libraries-)
 [FreeLook](https://www.curseforge.com/minecraft/mc-mods/freelook-fabric) | Improves third-person view by adding a perspective view | [Fabric API](#apis--libraries-)
 [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations) | Improves ambient environment by adding fireflies and glow-in-the-dark particles | [Fabric API](#apis--libraries-)
 [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset) | Improves inventory positioning by removing the offset from potion effects | None
 [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) | Improves player animations by adding first-person animations into third-person view | None
+[Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain) | Improves weather by converting it to particles | [Cloth Config API](#apis--libraries-), [Fabric API](#apis--libraries-)
+[Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) | Improves footstep sounds by changing them depending on the block below | None
 [Ugly Scoreboard Fix](https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix) | Improves the look of the sidebar | [Complete Config](#apis--libraries-)
 
 
@@ -104,6 +107,7 @@ Name | Description | Dependencies
 [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | Allows for the game to be ran in borderless windowed, keeping it open when unfocused | [Fabric API](#apis--libraries-)
 [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | Allows for extra settings and search options in the keybind menu | None
 [Easier Villager Trading](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading) | Allows for easier villager trading mechanics | [Fabric API](#apis--libraries-)
+[Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) | Allows for inventory sorting options | [Fabric API](#apis--libraries-)
 [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) | Allows for improved settings for mods | None
 [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | Allows for crashes to be more optimized | [Fabric API](#apis--libraries-)
 [Slight GUI Modification](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Allows for subtle GUI changes that improve some visuals too | [Architectury API](#apis--libraries-), [Cloth API](#apis--libraries-), [Cloth Config API](#apis--libraries-), [Fabric API](#apis--libraries-), [Mod Menu](#-technical-mods-)
@@ -120,6 +124,7 @@ Name | Description | Dependencies
 [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | Improves performance by reducing the game's render speed when unfocused | [Fabric API](#apis--libraries-)
 [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | Improves performance by unloading entities out of sight | [Fabric API](#apis--libraries-)
 [Fast Chest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | Improves performance by replacing the entity model of a chest by a block model | [Fabric API](#apis--libraries-)
+[Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric) | Improves performance by improving all furnace inventories' workings | [Fabric API](#apis--libraries-)
 [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | Improves performance by optimizing the game's startup | None
 [OptiFine](https://optifine.net/home) | Improves overall performance by adding many configurable settings | [OptiFabric](#apis--libraries-)
 [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | Improves performance by rewriting the light engine | None
