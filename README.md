@@ -26,6 +26,7 @@ Name | Used For | Adaptation
 [Better Vanilla Animals](https://www.curseforge.com/minecraft/texture-packs/better-vanilla-animals) | Mobs | No
 [Better Vanilla Building](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) | Mobs | Yes
 [Embellished Stone](https://www.curseforge.com/minecraft/texture-packs/embellished-stone-advancement-plaques) | Advancements | No
+[Improved Default](https://www.curseforge.com/minecraft/texture-packs/improved-default-textures-pack) | Blocks & Items | Yes
 [New Default](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus) | Blocks, Items, Mobs & CITs | Yes
 [Stoneborn](https://www.curseforge.com/minecraft/texture-packs/stoneborn-dwarven-fantasy-inspired-ui-overhaul) | UIs | No
 [Zinkenite Mobs](https://www.curseforge.com/minecraft/texture-packs/zinkenitemobs) | Mobs | Yes
@@ -88,6 +89,7 @@ Name | Description | Dependencies
 [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | Improves the color blending of different biomes | [Fabric API](#apis--libraries-)
 [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | Improves the hunger, health and experience bar while riding a horse | None
 [Clean View](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | Improves the first-person view by removing particles of the player | [Fabric API](#apis--libraries-)
+[Copyright Remover](https://www.curseforge.com/minecraft/mc-mods/copyright-remover) | Improves the title screen by removing the copyright text | None
 [Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters) | Improves sounds by adding echo, reverb and more | [Fabric API](#apis--libraries-)
 [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) | Improves leaves by adding falling leaf particle effect | [Cloth Config API](#apis--libraries-), [Fabric API](#apis--libraries-)
 [FreeLook](https://www.curseforge.com/minecraft/mc-mods/freelook-fabric) | Improves third-person view by adding a perspective view | [Fabric API](#apis--libraries-)
@@ -105,10 +107,13 @@ Name | Description | Dependencies
 ---- | ----------- | ------------
 [Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me) | Allows for re-authentication upon experiencing an invalid session | [Fabric API](#apis--libraries-)
 [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | Allows for the game to be ran in borderless windowed, keeping it open when unfocused | [Fabric API](#apis--libraries-)
+[Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric) | Allows for singleplayer worlds to be favorited | None
 [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | Allows for extra settings and search options in the keybind menu | None
+[Draggable Resource Packs](https://www.curseforge.com/minecraft/mc-mods/draggable-resource-packs) | Allows for resource packs to be dragged | [Fabric API](#apis--libraries-)
 [Easier Villager Trading](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading) | Allows for easier villager trading mechanics | [Fabric API](#apis--libraries-)
 [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) | Allows for inventory sorting options | [Fabric API](#apis--libraries-)
 [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) | Allows for improved settings for mods | None
+[Multiple Server Lists](https://www.curseforge.com/minecraft/mc-mods/multiple-server-lists) | Allows for sorting of multiplayer servers in lists | [Fabric API](#apis--libraries-)
 [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | Allows for crashes to be more optimized | [Fabric API](#apis--libraries-)
 [Slight GUI Modification](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Allows for subtle GUI changes that improve some visuals too | [Architectury API](#apis--libraries-), [Cloth API](#apis--libraries-), [Cloth Config API](#apis--libraries-), [Fabric API](#apis--libraries-), [Mod Menu](#-technical-mods-)
 [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) | Allows for scrollable zooming | [Fabric API](#apis--libraries-)
